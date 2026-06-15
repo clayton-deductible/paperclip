@@ -12,3 +12,6 @@ regexes = [
   '''sk_test_''',
   '''pk_test_''',
 ]
+paths = [
+  '''docs/deploy/secrets\.md''',
+]
